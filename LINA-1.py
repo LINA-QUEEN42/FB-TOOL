@@ -136,7 +136,7 @@ Y88888P Y888888P VP   V8P YP   YP  \033[1;34m𝐍 \033[1;37m
  Facebook  : LINA KUMARI
 \033[1;31m Tool Name : LINA-QUEEN\033[1;37m
  Type type : PAID
-\033[1;31m Version   : 0.1\033[1;37m
+\033[1;31m Version   : 4.1\033[1;37m
 ----------------------------------------------
  LINA version 0.1
  THANKS FOR USING MY TOOL
